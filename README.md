@@ -8,7 +8,7 @@ The generated data includes character bitmaps, widths, and offsets, which are pr
 Run the script with the path to the directory containing the charset .txt files:
 
 ```bash
-python charset_generator.py <charset_directory>
+python generate.py <charset_directory>
 ```
 
 ## Input File Format
